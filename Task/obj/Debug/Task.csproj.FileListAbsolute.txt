@@ -1,0 +1,316 @@
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Marian\Desktop\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\Task\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\Task\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\Task\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\Task\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\Task\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\Task\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\Task\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\Task\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu register\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu register\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu register\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task cu register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task cu register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task cu register\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task cu register\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu login si register\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu login si register si meniu client\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task cu login si register si meniu client si aplicatie client\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task v1\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.AdminUser.resources
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v1\Task\Task\obj\Debug\Task.AdminUserEdit.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task v2\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.AdminUserEdit.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.AdminUser.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task v2\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task v3\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.AdminUserEdit.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.AdminUser.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v3\Task\Task\obj\Debug\Task.csproj.ResolveComReference.cache
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.csproj.ResolveComReference.cache
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.AdminUserAdd.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.AdminUserEdit.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.AdminUser.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task v4\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task v4\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task v5\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.csproj.ResolveComReference.cache
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminUserAdd.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminUserEdit.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminUser.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminDoctor.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminDoctorAdd.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminDoctorEdit.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminPatient.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminPatientAdd.resources
+C:\Users\Marian\Desktop\task v5\Task\Task\obj\Debug\Task.AdminPatientEdit.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task 70\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.csproj.ResolveComReference.cache
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminPatientEdit.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminPatientAdd.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminPatient.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminDoctor.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminDoctorAdd.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminUserAdd.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminDoctorEdit.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminUserEdit.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminUser.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.pdb
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminAppointments.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminAppointmentEdit.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminAppointmentAdd.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminClientApp.resources
+C:\Users\Marian\Desktop\task 70\Task\Task\obj\Debug\Task.AdminClientAppEdit.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Task.exe
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Task.pdb
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Marian\Desktop\task 100\Task\Task\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.exe.config
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.csproj.ResolveComReference.cache
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminClientAppEdit.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminClientApp.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminAppointments.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminAppointmentEdit.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminPatientEdit.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminPatientAdd.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminPatient.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminDoctor.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminDoctorAdd.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminAppointmentAdd.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminUserAdd.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminDoctorEdit.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminUserEdit.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.AdminUser.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.Admins.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.Clients.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.Clientapp.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.Register.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.exe
+C:\Users\Marian\Desktop\task 100\Task\Task\obj\Debug\Task.pdb

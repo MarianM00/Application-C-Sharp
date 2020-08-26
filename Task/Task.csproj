@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{676EE7DF-EF41-476C-943B-BE755FBC1276}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Task</RootNamespace>
+    <AssemblyName>Task</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.11.5.21, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\Downloads\Bunifu UI WinForms 1.11.5.21\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
+      <HintPath>..\..\..\..\Downloads\Bunifu UI WinForms 1.11.5.21\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\..\Downloads\Bunifu UI WinForms 1.11.5.21\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\..\Downloads\Bunifu UI WinForms 1.11.5.21\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Downloads\Bunifu UI WinForms 1.11.5.21\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminClientAppEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminClientAppEdit.Designer.cs">
+      <DependentUpon>AdminClientAppEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminClientApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminClientApp.Designer.cs">
+      <DependentUpon>AdminClientApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAppointments.Designer.cs">
+      <DependentUpon>AdminAppointments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAppointmentEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAppointmentEdit.Designer.cs">
+      <DependentUpon>AdminAppointmentEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatientEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatientEdit.Designer.cs">
+      <DependentUpon>AdminPatientEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatientAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatientAdd.Designer.cs">
+      <DependentUpon>AdminPatientAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatient.Designer.cs">
+      <DependentUpon>AdminPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDoctor.Designer.cs">
+      <DependentUpon>AdminDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDoctorAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDoctorAdd.Designer.cs">
+      <DependentUpon>AdminDoctorAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAppointmentAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAppointmentAdd.Designer.cs">
+      <DependentUpon>AdminAppointmentAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUserAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUserAdd.Designer.cs">
+      <DependentUpon>AdminUserAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDoctorEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDoctorEdit.Designer.cs">
+      <DependentUpon>AdminDoctorEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUserEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUserEdit.Designer.cs">
+      <DependentUpon>AdminUserEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUser.Designer.cs">
+      <DependentUpon>AdminUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins.Designer.cs">
+      <DependentUpon>Admins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientapp .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientapp .Designer.cs">
+      <DependentUpon>Clientapp .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="taskDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taskDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taskDataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminClientAppEdit.resx">
+      <DependentUpon>AdminClientAppEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminClientApp.resx">
+      <DependentUpon>AdminClientApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminAppointments.resx">
+      <DependentUpon>AdminAppointments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminAppointmentEdit.resx">
+      <DependentUpon>AdminAppointmentEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatientEdit.resx">
+      <DependentUpon>AdminPatientEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatientAdd.resx">
+      <DependentUpon>AdminPatientAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatient.resx">
+      <DependentUpon>AdminPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDoctor.resx">
+      <DependentUpon>AdminDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDoctorAdd.resx">
+      <DependentUpon>AdminDoctorAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminAppointmentAdd.resx">
+      <DependentUpon>AdminAppointmentAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUserAdd.resx">
+      <DependentUpon>AdminUserAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDoctorEdit.resx">
+      <DependentUpon>AdminDoctorEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUserEdit.resx">
+      <DependentUpon>AdminUserEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUser.resx">
+      <DependentUpon>AdminUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins.resx">
+      <DependentUpon>Admins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients.resx">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientapp .resx">
+      <DependentUpon>Clientapp .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="taskDataSet.xsc">
+      <DependentUpon>taskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="taskDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taskDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taskDataSet.xss">
+      <DependentUpon>taskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="taskDataSet1.xsc">
+      <DependentUpon>taskDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="taskDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taskDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taskDataSet1.xss">
+      <DependentUpon>taskDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
